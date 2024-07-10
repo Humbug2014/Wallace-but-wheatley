@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(186, 152, 0);
+
+   
+
+}
+
+
+
+
+
+img{
+    
+    display: block;
+    margin-left: 15%;
+    margin-right: 25%;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(246, 255, 79);
+    display: block;
+    margin-left: 15%;
+    margin-right: 15%;
+
+
+
+}
+
+#header {
+    text-align: center;
+    background-color: rgb(000, 152, 129);
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 100;
+     
+}
+
+#Teh_Stori_of_chees{
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(000, 136, 110);
+    padding: 0px;
+    margin-left: 0px;
+
+}
+
+
+
+
+#ToaNuvaLinks{
+    position: fixed;
+
+    
+}
+
+
+
+#Parody_Citation{
+    text-align: center;
+    background-color: darkblue;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+    color: rgb(255, 000, 000)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
